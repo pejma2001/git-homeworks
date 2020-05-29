@@ -22,4 +22,4 @@
 
 #### Скриншоты
 
-![](https://i.imgur.com/HJ1VbMj.png)
+![](https://camo.githubusercontent.com/0d8b55198e03e6e941c820b3ac1c974ef3fe3c89/68747470733a2f2f692e696d6775722e636f6d2f48635370596b542e706e67)
